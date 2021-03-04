@@ -1,1 +1,2 @@
 # PygameSnakeCode
+DOWNLOAD CODE, TWEAK AND PLAY
